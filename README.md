@@ -1,2 +1,2 @@
-# ibmwatson
+# Applied Data Science
 Readme file
